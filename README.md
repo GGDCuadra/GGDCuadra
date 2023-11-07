@@ -10,7 +10,7 @@
 
 💬 Si quieres hablar de desarrollo de software, videojuegos, películas o series, estoy aquí para charlar sobre cualquier tema.
 
-📧 Si deseas ponerte en contacto conmigo, no dudes en enviarme un correo electrónico a gabi.45.decuadra@gmail.com.
+📧 Si deseas ponerte en contacto conmigo, no dudes en enviarme un correo electrónico a ggdcuadradev@gmail.com.
 
 🤓 Un dato curioso sobre mí: cuando me hago una pregunta, siempre encuentro una respuesta, sin importar cuán tonta sea la pregunta.
 
